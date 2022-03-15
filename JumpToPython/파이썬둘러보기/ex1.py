@@ -10,9 +10,5 @@
  * 2022-03-14        ipeac       최초 생성
  """
 
-
-a="""Hello world"""
-
-print(type(a))
-
-
+with open("foo.txt", "w") as f:
+    f.write("Life is too short,  파이썬 ")
