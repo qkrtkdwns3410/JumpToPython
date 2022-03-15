@@ -10,9 +10,9 @@
  * 2022-03-14        ipeac       최초 생성
  """
 
+a = 3
+b = 5
 
-a="""Hello world"""
+print(a)
 
-print(type(a))
-
-
+print(b)
