@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b50cd9-6ee2-40b9-beb2-8335649938a4" name="변경" comment="2022/03/15">
-      <change afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디/13413_오셀로_재배치_S4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디/11399_ATM_S3.py" beforeDir="false" afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디/11399_ATM_S3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
-  <component name="RunManager" selected="Python.13413_오셀로_재배치_S4">
+  <component name="RunManager" selected="Python.11399_ATM_S3">
     <configuration name="10610_30_S5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JumpToPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,6 +56,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디/10610_30_S5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11399_ATM_S3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JumpToPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디/11399_ATM_S3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,6 +154,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11399_ATM_S3" />
         <item itemvalue="Python.13413_오셀로_재배치_S4" />
         <item itemvalue="Python.4796_캠핑_S5" />
         <item itemvalue="Python.2217_로프_S4" />
@@ -170,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647498956560</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2022/03/15">
+      <created>1647503280593</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647503280593</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2022/03/15">
+      <created>1647503451845</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647503451845</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +235,7 @@
     <SUITE FILE_PATH="coverage/JumpToPython$4796__S5.coverage" NAME="4796_캠핑_S5 커버리지 결과" MODIFIED="1647500745422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$2217__S4.coverage" NAME="2217_로프_S4 커버리지 결과" MODIFIED="1647498757779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$ex1.coverage" NAME="ex1 커버리지 결과" MODIFIED="1647325861520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기" />
-    <SUITE FILE_PATH="coverage/JumpToPython$13413___S4.coverage" NAME="13413_오셀로_재배치_S4 커버리지 결과" MODIFIED="1647503239778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$11399_ATM_S3.coverage" NAME="11399_ATM_S3 커버리지 결과" MODIFIED="1647503728125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$13413___S4.coverage" NAME="13413_오셀로_재배치_S4 커버리지 결과" MODIFIED="1647503708628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
   </component>
 </project>
