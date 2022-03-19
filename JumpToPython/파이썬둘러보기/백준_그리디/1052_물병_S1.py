@@ -13,40 +13,18 @@ import sys
 
 
 def Solution(ex1):
-      bottle, one_move_able_bottle = list(map(int, ex1.split()))
-      need_liter = 0
-      plus_need_liter = 1
-      if bottle < one_move_able_bottle:
-            print(0)
-            return
-      while True:
+      print("==========================================")
+      N, K = map(int, ex1.split())
 
-            if bottle == one_move_able_bottle:
-                  print(need_liter)
+      purchased_water_bottle_cnt = 0
 
-                  break
-            elif one_move_able_bottle > bottle > 0:
+      while bin(N).count('1') > K:
+            idx = bin(N)[::-1].index('1')
+            purchased_water_bottle_cnt += 2 ** idx
+            N += 2 ** idx
 
-                  if one_move_able_bottle % 2 != 0:
-                        while plus_need_liter > need_liter:
-                              plus_need_liter //= 2
-                        need_liter -= plus_need_liter
+      print(purchased_water_bottle_cnt)
 
-                  print(need_liter)
-                  break
-            elif bottle <= 0:
-                  print(-1)
-                  return
-
-            if bottle % 2 != 0:
-                  need_liter += plus_need_liter
-                  plus_need_liter *= 2
-
-                  bottle += 1
-                  bottle //= 2
-            else:
-                  bottle //= 2
-                  plus_need_liter *= 2
 
 
 a = sys.stdin.readline()
@@ -54,5 +32,6 @@ Solution(a)
 
 # Solution("3 1")
 # Solution("13 2")
-# Solution("4 1")
-# Solution("1000000 5")
+# Solution("1001 999")
+Solution("1000000 5")
+# Solution("9 2")
