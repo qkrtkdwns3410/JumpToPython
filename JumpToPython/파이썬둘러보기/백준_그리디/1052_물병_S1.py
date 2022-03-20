@@ -19,8 +19,8 @@ def Solution(ex1):
       if bottle < one_move_able_bottle:
             print(0)
             return
-      while True:
 
+      while True:
             if bottle == one_move_able_bottle:
                   print(need_liter)
 
