@@ -1,6 +1,6 @@
 """
  *packageName    : 
- * fileName       : 1339_단어_수학_G4
+ * fileName       : 1041_주사위_G5
  * author         : ipeac
  * date           : 2022-03-20
  * description    :
@@ -11,10 +11,20 @@
  """
 
 
-def Solution(ex1):
+def Solution(n, dice_list):
       print("==========================================")
-      print("ex1 : %s " % ex1)
-      pass
+      print("n : %s " % n)
+      print("dice_list : %s " % dice_list)
 
 
-Solution()
+
+
+
+
+
+# n = int(input())
+# input_list = list(map(int, input().split()))
+Solution(2, [1, 2, 3, 4, 5, 6])
+Solution(3, [1, 2, 3, 4, 5, 6])
+Solution(1000000, [50, 50, 50, 50, 50, 50])
+Solution(10, [1, 2, 3, 4, 5, 6])
