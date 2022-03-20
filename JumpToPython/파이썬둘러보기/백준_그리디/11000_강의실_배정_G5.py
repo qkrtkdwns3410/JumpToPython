@@ -9,20 +9,44 @@
  * -----------------------------------------------------------
  * 2022-03-20        ipeac       최초 생성
  """
+import heapq
 import sys
 
+heap = []
+n = int(sys.stdin.readline())
+arr = []
 
-def Solution(ex1):
-      print("==========================================")
-      print("ex1 : %s " % ex1)
-      pass
+for i in range(n):
+      a, b = map(int, sys.stdin.readline().split())
+      arr.append([a, b])
+
+arr.sort(key=lambda x: x[0])
+print("arr : %s " % arr)
+
+# 첫 번째 강의가 끝나는 시간 추가
+heapq.heappush(heap, arr[0][1])
+print("heap : %s " % heap)
+
+for i in range(1, n):
+      if heap[0] > arr[i][0]:
+            heapq.heappush(heap, arr[i][1])
+            print("heap : %s " % heap)
+      else:
+            heapq.heappop(heap)
+            print("heap : %s " % heap)
+            
+            heapq.heappush(heap, arr[i][1])
+            print("heap : %s " % heap)
+
+print(len(heap))
 
 
-N = int(sys.stdin.readline())
-class_time_list = []
-for _ in range(N):
 
-      s, t = map(int, sys.stdin.readline().split())
-      class_time_list.append([s, t])
 
-Solution(class_time_list)
+
+
+
+
+
+
+#
