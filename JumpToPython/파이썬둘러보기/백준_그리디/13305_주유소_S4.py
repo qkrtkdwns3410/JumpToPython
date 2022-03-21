@@ -13,35 +13,32 @@
 
 # 도시의 개수 N , 인접한 두 도시를 연결하는 도로의 길이...N-1 개의 배열 , 주유소의 리터당 가격 N개의 자연수로
 def Solution(n, road_length_list, station_price_per_liter):
-      station_price_per_liter = station_price_per_liter[:-1]
-      now_fuel = 0
-      cost = 0
-      min_value = min(station_price_per_liter)
+      cost = road_length_list[0] * station_price_per_liter[0]
+      min_value = station_price_per_liter[0]
       
-      for index, num in enumerate(road_length_list):
-            if min_value == station_price_per_liter[index]:
-                  for index_in in range(index, len(road_length_list)):
-                        cost += road_length_list[index_in] * station_price_per_liter[index]
-                  
-                  continue
+      dist = 0
+      
+      for i in range(1, n - 1):
+            if station_price_per_liter[i] < min_value:
+                  cost += min_value * dist
+                  dist = road_length_list[i]
+                  min_value = station_price_per_liter[i]
             
-            if index == 0:
-                  cost += station_price_per_liter[index] * num
-                  now_fuel += station_price_per_liter[index] * num
             else:
-                  now_fuel -= road_length_list[index - 1]
-                  
-                  if station_price_per_liter[index] > station_price_per_liter[index - 1] and now_fuel < num:
-                        cost += station_price_per_liter[index - 1] * num
-                        now_fuel += station_price_per_liter[index - 1] * num
-                  elif station_price_per_liter[index] <= station_price_per_liter[index - 1] and now_fuel < num:
-                        cost += station_price_per_liter[index] * num
-                        now_fuel += station_price_per_liter[index] * num
+                  dist += road_length_list[i]
+            
+            if i == n - 2:
+                  cost += min_value * dist
       print(cost)
 
 
-# a=  int(input())
-#
+
+n = int(input())
+list_a = list(map(int, input().split()))
+list_b = list(map(int, input().split()))
+
+Solution(n, list_a, list_b)
+
 #
 # Solution(4, [2, 3, 1], [5, 2, 4, 1])
-Solution(4, [3, 3, 4], [1, 1, 1, 1])
+# Solution(4, [3, 3, 4], [1, 1, 1, 1])
