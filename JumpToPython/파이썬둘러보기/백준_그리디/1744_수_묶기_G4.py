@@ -26,9 +26,11 @@ def Solution(n, num_list):
       print("positive_list : %s " % positive_list)
       
       temp = 0
+      
       for index, num in enumerate(positive_list):
             if temp != 0:
                   gop_num = temp * num
+                  
                   if temp + num > gop_num:
                         result += temp + num
                   else:
@@ -37,6 +39,7 @@ def Solution(n, num_list):
                   temp = 0
             else:
                   temp = num
+                  
                   if len(positive_list) - 1 == index:
                         result += temp
       
