@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56b50cd9-6ee2-40b9-beb2-8335649938a4" name="변경" comment="2022/03/20">
+    <list default="true" id="56b50cd9-6ee2-40b9-beb2-8335649938a4" name="변경" comment="p">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디/1715_카드_정렬하기_G4.py" beforeDir="false" afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디/1715_카드_정렬하기_G4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +189,8 @@
       <workItem from="1647687781226" duration="374000" />
       <workItem from="1647756427448" duration="10248000" />
       <workItem from="1647838881406" duration="11051000" />
-      <workItem from="1647865326027" duration="11334000" />
+      <workItem from="1647865326027" duration="11388000" />
+      <workItem from="1648025193575" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="2022/03/15">
       <created>1647494504202</created>
@@ -311,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647872206557</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="p">
+      <created>1647879645148</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1647879645148</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,7 +355,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="2022/03/15" />
     <MESSAGE value="2022/03/20" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022/03/20" />
+    <MESSAGE value="p" />
+    <option name="LAST_COMMIT_MESSAGE" value="p" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
