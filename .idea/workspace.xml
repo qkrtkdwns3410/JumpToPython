@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b50cd9-6ee2-40b9-beb2-8335649938a4" name="변경" comment="p">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디/1449_수리공_항승_S3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디/1543_문서_검색_S4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디/3109_빵집_G2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -197,7 +194,8 @@
       <workItem from="1647865326027" duration="11388000" />
       <workItem from="1648025193575" duration="14417000" />
       <workItem from="1648097442953" duration="6149000" />
-      <workItem from="1648185059953" duration="4529000" />
+      <workItem from="1648185059953" duration="4543000" />
+      <workItem from="1648354863706" duration="1228000" />
     </task>
     <task id="LOCAL-00001" summary="2022/03/15">
       <created>1647494504202</created>
@@ -346,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648048498223</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="p">
+      <created>1648196858368</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1648196858368</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
