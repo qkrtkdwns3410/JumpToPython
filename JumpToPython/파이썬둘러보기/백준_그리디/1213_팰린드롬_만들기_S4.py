@@ -24,7 +24,6 @@ def Solution(letters):
       print("check_odd_count : %s " % check_odd_count)
       
       print("letters : %s " % letters)
-      odd_num_count = 0
       center = ""
       for alpha, value in check_odd_count.items():
             print("alpha : %s " % alpha)
@@ -36,15 +35,21 @@ def Solution(letters):
                         print("I'm Sorry Hansoo")
                         return
                   center = alpha
+                  for _ in range(value // 2):
+                        temp_str_list.append(alpha)
+            else:
+                  for _ in range(value // 2):
+                        temp_str_list.append(alpha)
+      temp_str_list.sort()
+      print("temp_str_list : %s " % temp_str_list)
+      print(''.join(temp_str_list) + center + ''.join(temp_str_list[::-1]))
 
 
 
 
 
-
-
-
-
+input_str = input()
+Solution(input_str)
 
 Solution("AABB")
 Solution("ABABA")
