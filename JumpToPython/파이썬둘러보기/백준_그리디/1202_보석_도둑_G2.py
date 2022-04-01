@@ -18,7 +18,8 @@ def Solution(n, bag_count, jew_list, max_weight_list):
       print("jew_list : %s " % jew_list)
       print("max_weight_list : %s " % max_weight_list)
       
-      pass
+      sorted(jew_list, key=lambda x: x[0])
+      print("jew_list : %s " % jew_list)
 
 
 

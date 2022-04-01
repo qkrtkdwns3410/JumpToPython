@@ -33,7 +33,6 @@ def Solution(n, level_list):
       print(answer)
 
 
-
 Solution(3, [5, 5, 5])
 Solution(3, [1, 10, 3])
 Solution(2, [3, 2])
