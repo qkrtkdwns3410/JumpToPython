@@ -24,7 +24,6 @@ def Solution(n, bag_count, jew_list, max_weight_list):
       
       print("jew_list : %s " % jew_list)
       # 무게당 가격을 계산합니다
-      price_per_weight = []
       res = 0
       
       temp = []
