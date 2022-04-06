@@ -10,15 +10,20 @@
  * 2022-03-27        ipeac       최초 생성
  """
 import heapq
-import sys
 
 
-def Solution(jew_list, max_weight_list):
-      max_weight_list.sort()
-      jew_list.sort()
-      print("max_weight_list : %s " % max_weight_list)
+def Solution(n, bag_count, jew_list, max_weight_list):
+      print("==========================================")
+      print("n : %s " % n)
+      print("bag_count : %s " % bag_count)
       print("jew_list : %s " % jew_list)
+      max_weight_list.sort()
+      print("max_weight_list : %s " % max_weight_list)
       
+      jew_list = sorted(jew_list, key=lambda x: -x[1])
+      
+      print("jew_list : %s " % jew_list)
+      # 무게당 가격을 계산합니다
       res = 0
       
       temp = []
@@ -35,12 +40,26 @@ def Solution(jew_list, max_weight_list):
       print(-res)
 
 
+
+
+
+
+
+
+
+
 # Solution(2, 1, [[5, 10], [100, 100]], [11])
-# Solution(3, 2, [[1, 65], [5, 23], [2, 99]], [10, 2])
-# Solution(2, 2, [[5, 5], [5, 5]], [1, 10])
+Solution(3, 2, [[1, 65], [5, 23], [2, 99]], [10, 2])
+Solution(2, 2, [[5, 5], [5, 5]], [1, 10])
 
-n, k = map(int, sys.stdin.readline().split())
+n, k = map(int, input().split())
+jew_list = []
+for _ in range(n):
+      jew_list.append(list(map(int, input().split())))
 
-jew_list = [list(map(int, sys.stdin.readline().split())) for _ in range(n)]
-max_weight_list = [int(sys.stdin.readline()) for _ in range(k)]
-Solution(jew_list, max_weight_list)
+print("jew_list : %s " % jew_list)
+max_weight_list = []
+for _ in range(k):
+      max_weight_list.append(int(input()))
+print("max_weight_list : %s " % max_weight_list)
+Solution(n, k, jew_list, max_weight_list)
