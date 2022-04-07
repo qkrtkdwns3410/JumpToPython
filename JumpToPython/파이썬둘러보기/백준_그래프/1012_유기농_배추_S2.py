@@ -15,32 +15,40 @@
  """
 import sys
 
-# 재귀 깊이 제한 파이썬 >> 1000 이라서 1000000 으로 설정해줘야합니다.
 sys.setrecursionlimit(10 ** 6)
 
 t = int(input())
 
 
-# def dfs(x,y):
-#       if x >=m or x<0 or y>=n or y<0 or
 def dfs(x, y):
-      pass
+      if x >= m or x < 0 or y >= n or y < 0 or graph[y][x] == 0:
+            return False
+      graph[y][x] = 0
+      visited[y][x] = 1
+      
+      dfs(x + 1, y)
+      dfs(x - 1, y)
+      dfs(x, y + 1)
+      dfs(x, y - 1)
 
 
+
+# m x좌표 n y좌표  k 줄
 for i in range(t):
       m, n, k = map(int, input().split())
       
-      graph = [[0] * m for i in range(n)]
+      graph = [[0] * m for _ in range(n)]
       post = []
       for i in range(k):
-            a, b = map(int, input().split())
-            graph[b][a] = 1
+            x, y = map(int, input().split())
+            graph[y][x] = 1
       cnt = 0
-      visited_d = [[0] * m for i in range(n)]
+      visited = [[0] * m for i in range(n)]
       
       for i in range(n):
             for j in range(m):
-                  if visited_d[i][j] == 0 and graph[i][j] == 1:
+                  
+                  if visited[i][j] == 0 and graph[i][j] == 1:
                         dfs(j, i)
                         cnt += 1
       print(cnt)
