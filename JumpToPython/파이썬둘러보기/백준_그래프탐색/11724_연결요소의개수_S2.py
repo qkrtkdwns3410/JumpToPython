@@ -11,8 +11,7 @@
  """
 import sys
 
-# dfs 의 경우에는 최대 재귀 값을 더 열어주어야 합니다,.
-sys.setrecursionlimit(10 ** 6)
+sys.setrecursionlimit(10 ** 4)
 
 # n 정점 m 간선의 개수
 n, m = map(int, input().split())
