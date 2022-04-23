@@ -12,6 +12,8 @@
           <option value="E225" />
           <option value="E302" />
           <option value="E712" />
+          <option value="E265" />
+          <option value="E221" />
         </list>
       </option>
     </inspection_tool>
