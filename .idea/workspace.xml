@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b50cd9-6ee2-40b9-beb2-8335649938a4" name="변경" comment="p">
-      <change afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/프로그래머스_/문자열압축_Lv2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,23 +40,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jihye94\IdeaProjects\JumpToPython\JumpToPython\파이썬둘러보기\백준_그래프탐색" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.문자열압축_Lv2">
+  <component name="RunManager" selected="Python.1058_친구_S2">
     <configuration name="1058_친구_S2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JumpToPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,7 +169,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.문자열압축_Lv2" />
         <item itemvalue="Python.11403_경로찾기_S1" />
         <item itemvalue="Python.큰수만들기_Lv2" />
         <item itemvalue="Python.1058_친구_S2" />
@@ -216,7 +214,8 @@
       <workItem from="1650693717962" duration="99000" />
       <workItem from="1650694087603" duration="4165000" />
       <workItem from="1650702896253" duration="11316000" />
-      <workItem from="1650770254272" duration="4580000" />
+      <workItem from="1650770254272" duration="4589000" />
+      <workItem from="1651236004847" duration="350000" />
     </task>
     <task id="LOCAL-00001" summary="2022/03/15">
       <created>1647494504202</created>
@@ -491,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650733652538</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="p">
+      <created>1650776446783</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1650776446783</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
