@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b50cd9-6ee2-40b9-beb2-8335649938a4" name="변경" comment="p">
+      <change afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/1743_음식물 피하기_S1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/2606_바이러스_S2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,7 @@
       <recent name="C:\Users\jihye94\IdeaProjects\JumpToPython\JumpToPython\파이썬둘러보기\백준_그래프탐색" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1058_친구_S2">
+  <component name="RunManager" selected="Python.1743_음식물 피하기_S1">
     <configuration name="1058_친구_S2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JumpToPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,6 +125,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1743_음식물 피하기_S1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JumpToPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/1743_음식물 피하기_S1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="큰수만들기_Lv2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JumpToPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,6 +193,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1743_음식물 피하기_S1" />
         <item itemvalue="Python.11403_경로찾기_S1" />
         <item itemvalue="Python.큰수만들기_Lv2" />
         <item itemvalue="Python.1058_친구_S2" />
@@ -215,7 +240,7 @@
       <workItem from="1650694087603" duration="4165000" />
       <workItem from="1650702896253" duration="11316000" />
       <workItem from="1650770254272" duration="4589000" />
-      <workItem from="1651236004847" duration="350000" />
+      <workItem from="1651236004847" duration="5679000" />
     </task>
     <task id="LOCAL-00001" summary="2022/03/15">
       <created>1647494504202</created>
@@ -497,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650776446783</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="p">
+      <created>1651236369413</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1651236369413</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -600,6 +632,7 @@
     <SUITE FILE_PATH="coverage/JumpToPython$13305__S4.coverage" NAME="13305_주유소_S4 커버리지 결과" MODIFIED="1647868318335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$15903____S1.coverage" NAME="15903_카드_합체_놀이_S1 커버리지 결과" MODIFIED="1647668387211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$_Lv2.coverage" NAME="문자열압축_Lv2 커버리지 결과" MODIFIED="1650775489671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/프로그래머스_" />
+    <SUITE FILE_PATH="coverage/JumpToPython$1743___S1.coverage" NAME="1743_음식물 피하기_S1 커버리지 결과" MODIFIED="1651241235514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
     <SUITE FILE_PATH="coverage/JumpToPython$1449__.coverage" NAME="1449_수리공_항승_S3 커버리지 결과" MODIFIED="1648191115922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$11047__0_S3.coverage" NAME="11047_동전_0_S3 커버리지 결과" MODIFIED="1647841693875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$11000___G5.coverage" NAME="11000_강의실_배정_G5 커버리지 결과" MODIFIED="1647761059531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
