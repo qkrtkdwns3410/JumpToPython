@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b50cd9-6ee2-40b9-beb2-8335649938a4" name="변경" comment="p">
-      <change afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/14226_이모티콘_G5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/class/CalFour.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/class/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/class/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/16953_A_B_G5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/class/mod1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -61,7 +58,7 @@
       <recent name="C:\Users\jihye94\IdeaProjects\JumpToPython\JumpToPython\파이썬둘러보기\백준_그래프탐색" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.16953_A_B_G5">
+  <component name="RunManager" selected="Python.14226_이모티콘_G5">
     <configuration name="11403_경로찾기_S1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JumpToPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,6 +73,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/11403_경로찾기_S1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14226_이모티콘_G5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JumpToPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/14226_이모티콘_G5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,28 +169,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="큰수만들기_Lv2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="JumpToPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/프로그래머스_" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/프로그래머스_/큰수만들기_Lv2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="문자열압축_Lv2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JumpToPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.14226_이모티콘_G5" />
         <item itemvalue="Python.16953_A_B_G5" />
         <item itemvalue="Python.2606_바이러스_S2" />
         <item itemvalue="Python.1743_음식물 피하기_S1" />
         <item itemvalue="Python.11403_경로찾기_S1" />
-        <item itemvalue="Python.큰수만들기_Lv2" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +244,8 @@
       <workItem from="1651309133610" duration="146000" />
       <workItem from="1651318574311" duration="3154000" />
       <workItem from="1651410206501" duration="1898000" />
-      <workItem from="1651913141999" duration="734000" />
+      <workItem from="1651913141999" duration="1036000" />
+      <workItem from="1652438708566" duration="4178000" />
     </task>
     <task id="LOCAL-00001" summary="2022/03/15">
       <created>1647494504202</created>
@@ -550,7 +548,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651413759724</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="p">
+      <created>1651914128554</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1651914128554</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -653,49 +658,51 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JumpToPython$ex1.coverage" NAME="ex1 커버리지 결과" MODIFIED="1647325861520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기" />
-    <SUITE FILE_PATH="coverage/JumpToPython$15904_UCPC___S4.coverage" NAME="15904_UCPC는_무엇의_약자일까_S4 커버리지 결과" MODIFIED="1649035140524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$1202___G2.coverage" NAME="1202_보석_도둑_G2 커버리지 결과" MODIFIED="1648970557268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$13305__S4.coverage" NAME="13305_주유소_S4 커버리지 결과" MODIFIED="1647868318335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$15903____S1.coverage" NAME="15903_카드_합체_놀이_S1 커버리지 결과" MODIFIED="1647668387211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$_Lv2.coverage" NAME="문자열압축_Lv2 커버리지 결과" MODIFIED="1650775489671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/프로그래머스_" />
     <SUITE FILE_PATH="coverage/JumpToPython$1743___S1.coverage" NAME="1743_음식물 피하기_S1 커버리지 결과" MODIFIED="1651241235514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
     <SUITE FILE_PATH="coverage/JumpToPython$1449__.coverage" NAME="1449_수리공_항승_S3 커버리지 결과" MODIFIED="1648191115922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$11047__0_S3.coverage" NAME="11047_동전_0_S3 커버리지 결과" MODIFIED="1647841693875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$3109__G2.coverage" NAME="3109_빵집_G2 커버리지 결과" MODIFIED="1648185499888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$1213___S4.coverage" NAME="1213_팰린드롬_만들기_S4 커버리지 결과" MODIFIED="1648825289334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$2217__S4.coverage" NAME="2217_로프_S4 커버리지 결과" MODIFIED="1647498757779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$1715___G4.coverage" NAME="1715_카드_정렬하기_G4 커버리지 결과" MODIFIED="1648028290010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$1744___G4.coverage" NAME="1744_수_묶기_G4 커버리지 결과" MODIFIED="1648035710816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$1092__G5.coverage" NAME="1092_배_G5 커버리지 결과" MODIFIED="1649162752187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$2212__G5.coverage" NAME="2212_센서_G5 커버리지 결과" MODIFIED="1647770916057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$16953_A_B_S1.coverage" NAME="16953_A_B_S1 커버리지 결과" MODIFIED="1647590287593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$1026__S4.coverage" NAME="1026_보물_S4 커버리지 결과" MODIFIED="1647845387848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$14226__G5.coverage" NAME="14226_이모티콘_G5 커버리지 결과" MODIFIED="1652443136063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
+    <SUITE FILE_PATH="coverage/JumpToPython$1339___G4.coverage" NAME="1339_단어_수학_G4 커버리지 결과" MODIFIED="1647850139735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$1543___S4.coverage" NAME="1543_문서_검색_S4 커버리지 결과" MODIFIED="1648191667552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$1058__S2.coverage" NAME="1058_친구_S2 커버리지 결과" MODIFIED="1650694965161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
+    <SUITE FILE_PATH="coverage/JumpToPython$12904_AB_G5.coverage" NAME="12904_A와B_G5 커버리지 결과" MODIFIED="1647768364691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$14659__B2.coverage" NAME="14659_한조서열정리하고음ㅋㅋ_B2 커버리지 결과" MODIFIED="1648653539047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$1080__S1.coverage" NAME="1080_행렬_S1 커버리지 결과" MODIFIED="1647666854192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$15904_UCPC___S4.coverage" NAME="15904_UCPC는_무엇의_약자일까_S4 커버리지 결과" MODIFIED="1649035140524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$1202___G2.coverage" NAME="1202_보석_도둑_G2 커버리지 결과" MODIFIED="1648970557268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$15903____S1.coverage" NAME="15903_카드_합체_놀이_S1 커버리지 결과" MODIFIED="1647668387211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$_Lv2.coverage" NAME="문자열압축_Lv2 커버리지 결과" MODIFIED="1650775489671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/프로그래머스_" />
     <SUITE FILE_PATH="coverage/JumpToPython$11000___G5.coverage" NAME="11000_강의실_배정_G5 커버리지 결과" MODIFIED="1647761059531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$9009__S1.coverage" NAME="9009_피보나치_S1 커버리지 결과" MODIFIED="1647672520171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$2821__G4.coverage" NAME="2821_크게만들기_G4 커버리지 결과" MODIFIED="1648992142576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$3109__G2.coverage" NAME="3109_빵집_G2 커버리지 결과" MODIFIED="1648185499888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$1213___S4.coverage" NAME="1213_팰린드롬_만들기_S4 커버리지 결과" MODIFIED="1648825289334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$13565__S2.coverage" NAME="13565_침투_S2 커버리지 결과" MODIFIED="1649408909225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
     <SUITE FILE_PATH="coverage/JumpToPython$1012___S2.coverage" NAME="1012_유기농_배추_S2 커버리지 결과" MODIFIED="1649315385695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프" />
-    <SUITE FILE_PATH="coverage/JumpToPython$2217__S4.coverage" NAME="2217_로프_S4 커버리지 결과" MODIFIED="1647498757779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$1715___G4.coverage" NAME="1715_카드_정렬하기_G4 커버리지 결과" MODIFIED="1648028290010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$1052__S1.coverage" NAME="1052_물병_S1 커버리지 결과" MODIFIED="1647678444323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$1744___G4.coverage" NAME="1744_수_묶기_G4 커버리지 결과" MODIFIED="1648035710816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$1041__G5.coverage" NAME="1041_주사위_G5 커버리지 결과" MODIFIED="1649080053237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$11497___S1.coverage" NAME="11497_통나무_건너뛰기_S1 커버리지 결과" MODIFIED="1647669609429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$13904__G3.coverage" NAME="13904_과제_G3 커버리지 결과" MODIFIED="1649046897373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$11724__S2.coverage" NAME="11724_연결요소의개수_S2 커버리지 결과" MODIFIED="1649401450267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
     <SUITE FILE_PATH="coverage/JumpToPython$2644__S2.coverage" NAME="2644_촌수계산_S2 커버리지 결과" MODIFIED="1649400665767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
     <SUITE FILE_PATH="coverage/JumpToPython$_.coverage" NAME="이코테_음료수얼려먹기 커버리지 결과" MODIFIED="1649168039144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
-    <SUITE FILE_PATH="coverage/JumpToPython$1092__G5.coverage" NAME="1092_배_G5 커버리지 결과" MODIFIED="1649162752187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$2212__G5.coverage" NAME="2212_센서_G5 커버리지 결과" MODIFIED="1647770916057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$16953_A_B_S1.coverage" NAME="16953_A_B_S1 커버리지 결과" MODIFIED="1647590287593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
+    <SUITE FILE_PATH="coverage/JumpToPython$16953_A_B_G5.coverage" NAME="16953_A_B_G5 커버리지 결과" MODIFIED="1651913896170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
     <SUITE FILE_PATH="coverage/JumpToPython$2847____S4.coverage" NAME="2847_게임을_만든_동준이_S4 커버리지 결과" MODIFIED="1648832002119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$1026__S4.coverage" NAME="1026_보물_S4 커버리지 결과" MODIFIED="1647845387848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$1339___G4.coverage" NAME="1339_단어_수학_G4 커버리지 결과" MODIFIED="1647850139735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$1543___S4.coverage" NAME="1543_문서_검색_S4 커버리지 결과" MODIFIED="1648191667552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$2437__G3.coverage" NAME="2437_저울_G3 커버리지 결과" MODIFIED="1648048415225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$1058__S2.coverage" NAME="1058_친구_S2 커버리지 결과" MODIFIED="1650694965161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
     <SUITE FILE_PATH="coverage/JumpToPython$11725__S2.coverage" NAME="11725_트리의부모찾기_S2 커버리지 결과" MODIFIED="1649407203946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
-    <SUITE FILE_PATH="coverage/JumpToPython$12904_AB_G5.coverage" NAME="12904_A와B_G5 커버리지 결과" MODIFIED="1647768364691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$11399_ATM_S3.coverage" NAME="11399_ATM_S3 커버리지 결과" MODIFIED="1647504437149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$14659__B2.coverage" NAME="14659_한조서열정리하고음ㅋㅋ_B2 커버리지 결과" MODIFIED="1648653539047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$4963___S2.coverage" NAME="4963_섬의_개수_S2 커버리지 결과" MODIFIED="1649323237046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
     <SUITE FILE_PATH="coverage/JumpToPython$1260_DFSBFS_S2.coverage" NAME="1260_DFS와BFS_S2 커버리지 결과" MODIFIED="1649164952988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
     <SUITE FILE_PATH="coverage/JumpToPython$2606__S2.coverage" NAME="2606_바이러스_S2 커버리지 결과" MODIFIED="1651413711175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
     <SUITE FILE_PATH="coverage/JumpToPython$10610_30_S5.coverage" NAME="10610_30_S5 커버리지 결과" MODIFIED="1647495932073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$1080__S1.coverage" NAME="1080_행렬_S1 커버리지 결과" MODIFIED="1647666854192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$4796__S5.coverage" NAME="4796_캠핑_S5 커버리지 결과" MODIFIED="1647500745422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$11403__S1.coverage" NAME="11403_경로찾기_S1 커버리지 결과" MODIFIED="1650724373356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
     <SUITE FILE_PATH="coverage/JumpToPython$13413___S4.coverage" NAME="13413_오셀로_재배치_S4 커버리지 결과" MODIFIED="1647503708628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
