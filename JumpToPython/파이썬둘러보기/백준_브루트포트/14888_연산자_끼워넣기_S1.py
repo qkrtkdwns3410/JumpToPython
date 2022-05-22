@@ -26,8 +26,7 @@ ans = num_list[0]
 
 def dfs(idx):
       global ans
-      global maximum
-      global minimum
+      global maximum, minimum
       
       if idx == n:
             if ans > maximum:
@@ -53,10 +52,11 @@ def dfs(idx):
                               ans //= num_list[idx]
                         else:
                               ans = (-ans // num_list[idx]) * -1
-                  dx[idx] -= 1
+                  
+                  dx[i] -= 1
                   dfs(idx + 1)
                   ans = tmp
-                  dx[idx] += 1
+                  dx[i] += 1
 
 dfs(1)
 print(maximum)
