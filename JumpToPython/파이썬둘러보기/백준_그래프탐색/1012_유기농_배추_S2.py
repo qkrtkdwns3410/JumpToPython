@@ -13,42 +13,48 @@
  2. 배추밭의 세로길이 n
  3. 배추가 심어져 있는 위치의 개수 k
  """
-import sys
+# 방향성
+from collections import deque
 
-sys.setrecursionlimit(10 ** 6)
+dx, dy = [0, 0, -1, 1], [1, -1, 0, 0]
 
-t = int(input())
-
-
-def dfs(x, y):
-      if x >= m or x < 0 or y >= n or y < 0 or graph[y][x] == 0:
-            return False
-      graph[y][x] = 0
-      visited[y][x] = 1
+def bfs(x, y):
+      q = deque()
+      q.append((x, y))
+      graph[x][y] = 0
       
-      dfs(x + 1, y)
-      dfs(x - 1, y)
-      dfs(x, y + 1)
-      dfs(x, y - 1)
+      while q:
+            # 해당 위치값 가져옴 ㅇㅇ (배추 잇는곳)
+            x, y = q.popleft()
+            # 4방향으로 회전시작
+            for i in range(4):
+                  nx, ny = x + dx[i], y + dy[i]
+                  if nx < 0 or ny < 0 or ny >= N or nx >= M:
+                        continue
+                  if graph[nx][ny] == 1:
+                        # 값을 0으로 만들고 해당 값 큐에 담아서 반복문 다시돔
+                        graph[nx][ny] = 0
+                        q.append((nx, ny))
+      return
 
-
-
-# m x좌표 n y좌표  k 줄
-for i in range(t):
-      m, n, k = map(int, input().split())
+T = int(input())
+for i in range(T):
       
-      graph = [[0] * m for _ in range(n)]
-      post = []
-      for i in range(k):
-            x, y = map(int, input().split())
-            graph[y][x] = 1
+      M, N, K = map(int, input().split())
       cnt = 0
-      visited = [[0] * m for i in range(n)]
       
-      for i in range(n):
-            for j in range(m):
-                  
-                  if visited[i][j] == 0 and graph[i][j] == 1:
-                        dfs(j, i)
+      graph = [[0] * N for _ in range(M)]
+      
+      # 배추 위치 설정
+      for j in range(K):
+            x, y = map(int, input().split())
+            graph[x][y] = 1
+      
+      # 지렁이 세팅
+      for y in range(N):
+            for x in range(M):
+                  if graph[x][y] == 1:
+                        bfs(x, y)
+                        # 지렁이가 bfs 로 해당 칸을 다 돌면 한마리가 세팅되는거임 ㅇㅇ
                         cnt += 1
       print(cnt)
