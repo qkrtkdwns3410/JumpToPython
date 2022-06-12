@@ -1,14 +1,3 @@
-"""
- *packageName    : 
- * fileName       : 24479_알고리즘 수업_깊이우선탐색 1 _S1
- * author         : ipeac
- * date           : 2022-06-08
- * description    :
- * ===========================================================
- * DATE              AUTHOR             NOTE
- * -----------------------------------------------------------
- * 2022-06-08        ipeac       최초 생성
- """
 import sys
 
 sys.setrecursionlimit(100000)
@@ -25,18 +14,13 @@ def dfs(graph, v, visited, nodes_cnt):
             if not visited[i]:
                   dfs(graph, i, visited, nodes_cnt)
 
-
-
 N, M, R = (map(int, input().split()))
-print("N : %s " % N)
 
 # 그래프
 graph = [[] for _ in range(N + 1)]
-print("graph : %s " % graph)
 
 visited = [False for _ in range(N + 1)]
 nodes_cnt = [0 for _ in range(N + 1)]
-print("nodes_cnt : %s " % nodes_cnt)
 
 for _ in range(M):
       x, y = map(int, input().split())
@@ -48,9 +32,7 @@ for i in graph:
       i.sort()
 
 cnt = 1
-print("graph : %s " % graph)
 dfs(graph, R, visited, nodes_cnt)
-print("nodes_cnt : %s " % nodes_cnt)
 
 for index, value in enumerate(nodes_cnt):
       if index >= 1:
