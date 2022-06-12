@@ -1,6 +1,6 @@
 """
  *packageName    : 
- * fileName       : 24479_알고리즘 수업_깊이우선탐색 1 _S1
+ * fileName       : 24479_알고리즘 수업_깊이우선탐색 1 _S2
  * author         : ipeac
  * date           : 2022-06-08
  * description    :
