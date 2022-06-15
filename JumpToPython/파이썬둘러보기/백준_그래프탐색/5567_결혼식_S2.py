@@ -43,6 +43,7 @@ for _ in range(m):
 
 # 상근이 학번 1은 무조건  vitised
 visited[1] = True
+
 # 상근이의 학번은 1입니다.  기본 depth 0
 dfs(graph, visited, 1, 0)
 print("graph : %s " % graph)
