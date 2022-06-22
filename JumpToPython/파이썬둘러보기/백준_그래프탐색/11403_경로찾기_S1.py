@@ -10,36 +10,27 @@
  * 2022-04-23        jihye94       최초 생성
  """
 from collections import deque
-import sys
 
-input = sys.stdin.readline
-N = int(input())  # 정점의 개수
-G = [list(map(int, input().split())) for _ in range(N)]
-result = [[0] * N for _ in range(N)]
-lst = [[] for _ in range(N)]  # 간선 정보
+n = int(input())
+graph = [list(map(int, input().split())) for _ in range(n)]
+visited = [[0] * n for _ in range(n)]
 
-# 간선 정보
-for i in range(N):
-      for j in range(N):
-            if G[i][j] == 1:
-                  lst[i].append(j)
+def bfs(x):
+      queue = deque()
+      queue.append(x)
+      check = [0 for _ in range(n)]
+      
+      while queue:
+            q = queue.popleft()
+            
+            for i in range(n):
+                  if check[i] == 0 and graph[q][i] == 1:
+                        queue.append(i)
+                        check[i] = 1
+                        visited[x][i] = 1
 
-
-def bfs(i):
-      q = deque([i])
-      while q:
-            node = q.popleft()
-            for v in lst[node]:
-                  
-                  if not visited[v]:
-                        visited[v] = 1
-                        q.append(v)
-                        
-                        if not result[i][v]:
-                              result[i][v] = 1
-
-
-for i in range(N):
-      visited = [0] * N
+for i in range(0, n):
       bfs(i)
-      print(*result[i])
+
+for i in visited:
+      print(*i)
