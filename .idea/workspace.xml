@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b50cd9-6ee2-40b9-beb2-8335649938a4" name="변경" comment="p">
-      <change afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/2583_영역구하기_S1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/3184_양_S1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/12852_1로만들기2_S1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/2468_안전영역_S1.py" beforeDir="false" afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/2468_안전영역_S1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,25 +53,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jihye94/IdeaProjects/jsProject/server-side-javascript&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/jihye94/IdeaProjects/jsProject/server-side-javascript",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Python"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jihye94\IdeaProjects\JumpToPython\JumpToPython\파이썬둘러보기\백준_그래프탐색" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3184_양_S1">
+  <component name="RunManager" selected="Python.12852_1로만들기2_S1">
+    <configuration name="12852_1로만들기2_S1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JumpToPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/12852_1로만들기2_S1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="13565_침투_S2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JumpToPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,28 +108,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/13565_침투_S2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="24480_알고리즘_수업_깊이우선탐색_2_S2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="JumpToPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색/24480_알고리즘_수업_깊이우선탐색_2_S2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12852_1로만들기2_S1" />
         <item itemvalue="Python.3184_양_S1" />
         <item itemvalue="Python.2583_영역구하기_S1" />
         <item itemvalue="Python.2468_안전영역_S1" />
         <item itemvalue="Python.13565_침투_S2" />
-        <item itemvalue="Python.24480_알고리즘_수업_깊이우선탐색_2_S2" />
       </list>
     </recent_temporary>
   </component>
@@ -250,14 +248,8 @@
       <workItem from="1654938986784" duration="7556000" />
       <workItem from="1655552324616" duration="5873000" />
       <workItem from="1655642736484" duration="3081000" />
-      <workItem from="1655734485559" duration="3457000" />
-    </task>
-    <task id="LOCAL-00002" summary="2022/03/15">
-      <created>1647495435079</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1647495435079</updated>
+      <workItem from="1655734485559" duration="3575000" />
+      <workItem from="1656126568937" duration="5538000" />
     </task>
     <task id="LOCAL-00003" summary="2022/03/15">
       <created>1647498956560</created>
@@ -595,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654958497878</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="p">
+      <created>1655738030748</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1655738030749</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -702,7 +701,8 @@
     <SUITE FILE_PATH="coverage/JumpToPython$1743___S1.coverage" NAME="1743_음식물 피하기_S1 커버리지 결과" MODIFIED="1651241235514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
     <SUITE FILE_PATH="coverage/JumpToPython$1449__.coverage" NAME="1449_수리공_항승_S3 커버리지 결과" MODIFIED="1648191115922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$11047__0_S3.coverage" NAME="11047_동전_0_S3 커버리지 결과" MODIFIED="1647841693875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
-    <SUITE FILE_PATH="coverage/JumpToPython$3184__S1.coverage" NAME="3184_양_S1 커버리지 결과" MODIFIED="1655737879881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
+    <SUITE FILE_PATH="coverage/JumpToPython$12852_12_S1.coverage" NAME="12852_1로만들기2_S1 커버리지 결과" MODIFIED="1656135827066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
+    <SUITE FILE_PATH="coverage/JumpToPython$3184__S1.coverage" NAME="3184_양_S1 커버리지 결과" MODIFIED="1655737984726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
     <SUITE FILE_PATH="coverage/JumpToPython$3109__G2.coverage" NAME="3109_빵집_G2 커버리지 결과" MODIFIED="1648185499888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$1213___S4.coverage" NAME="1213_팰린드롬_만들기_S4 커버리지 결과" MODIFIED="1648825289334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
     <SUITE FILE_PATH="coverage/JumpToPython$2217__S4.coverage" NAME="2217_로프_S4 커버리지 결과" MODIFIED="1647498757779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그리디" />
