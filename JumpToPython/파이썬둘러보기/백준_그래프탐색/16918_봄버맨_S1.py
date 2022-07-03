@@ -31,7 +31,7 @@ def simulate():
         pass
     # 3번의 경우에는 짝수초
     elif time % 2 == 0:
-        pass
+        graph[list()]
     # 4번의 경우 홀수 초인 경우
     elif time % 2 == 1:
         pass
