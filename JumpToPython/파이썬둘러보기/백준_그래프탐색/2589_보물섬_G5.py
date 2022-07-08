@@ -37,6 +37,7 @@ def bfs(x, y):
 
 
 
+
 # 보물 지도의 세로 크기 a , 가로의 크기 b
 a, b = map(int, input().split())
 
