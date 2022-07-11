@@ -20,6 +20,7 @@ def post_order(start, end):
         return
     
     divisition = end + 1  # 나눌 위치
+    
     for i in range(start + 1, end + 1):
         if graph[start] < graph[i]:
             divisition = i
