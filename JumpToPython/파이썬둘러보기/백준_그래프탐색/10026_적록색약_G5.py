@@ -17,7 +17,6 @@ input = sys.stdin.readline
 dx, dy = [0, 0, -1, 1], [1, -1, 0, 0]
 
 
-
 # 적록 색약인 경우
 def bfs(a, b):
     q = deque()
