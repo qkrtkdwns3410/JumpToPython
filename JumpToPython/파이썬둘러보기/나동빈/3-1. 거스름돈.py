@@ -13,18 +13,18 @@
 n = int(input())
 ans = 0
 
-arr = [500, 100, 50, 10]
+coin_arr = [500, 100, 50, 10]
 
 
 def divide(value):
     global n
-    ans = 0
+    global ans
     ans += n // value
-    n -= value * ans
-    return ans
+    n -= value * (n // value)
 
 
-for i in arr:
-    if n >= i:
-        ans += divide(i)
+for coin in coin_arr:
+    if n >= coin:
+        divide(coin)
+
 print(ans)

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56b50cd9-6ee2-40b9-beb2-8335649938a4" name="변경" comment="p">
-      <change afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/나동빈/3-1. 거스름돈.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/나동빈/3-1. 거스름돈.py" beforeDir="false" afterPath="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/나동빈/3-1. 거스름돈.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,14 +261,7 @@
       <workItem from="1657079930315" duration="5847000" />
       <workItem from="1657715190549" duration="1856000" />
       <workItem from="1657947290870" duration="2281000" />
-      <workItem from="1658105995805" duration="4269000" />
-    </task>
-    <task id="LOCAL-00012" summary="2022/03/15">
-      <created>1647756439493</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1647756439493</updated>
+      <workItem from="1658105995805" duration="5523000" />
     </task>
     <task id="LOCAL-00013" summary="2022/03/15">
       <created>1647764741274</created>
@@ -606,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658109424036</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="p">
+      <created>1658116231748</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1658116231748</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -652,6 +652,6 @@
     <SUITE FILE_PATH="coverage/JumpToPython$1068__G5.coverage" NAME="1068_트리_G5 커버리지 결과" MODIFIED="1657081812573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_그래프탐색" />
     <SUITE FILE_PATH="coverage/JumpToPython$16395___S5.coverage" NAME="16395_파스칼의 삼각형_S5 커버리지 결과" MODIFIED="1658109375224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_DP" />
     <SUITE FILE_PATH="coverage/JumpToPython$10826_4_S5.coverage" NAME="10826_피보나치수4_S5 커버리지 결과" MODIFIED="1657948062798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/백준_DP" />
-    <SUITE FILE_PATH="coverage/JumpToPython$3_1__.coverage" NAME="3-1. 거스름돈 커버리지 결과" MODIFIED="1658116183968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/나동빈" />
+    <SUITE FILE_PATH="coverage/JumpToPython$3_1__.coverage" NAME="3-1. 거스름돈 커버리지 결과" MODIFIED="1658117454658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JumpToPython/파이썬둘러보기/나동빈" />
   </component>
 </project>
